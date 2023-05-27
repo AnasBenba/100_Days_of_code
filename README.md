@@ -2,3 +2,5 @@
 day 1: Band name generater project
 
 day 2: Tip Calculator project
+
+day 3: Treasure Island
