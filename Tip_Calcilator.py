@@ -10,7 +10,7 @@ number_of_people = int(input("How many people to split the bill? "))
 
 tip = total_bill * (percentage_tip / 100)
 bill_per_person = (total_bill + tip) / number_of_people
-result = round(bill_per_person, 2)
+result = "{:.2f}".format(bill_per_person)
 
 # print the result
 
