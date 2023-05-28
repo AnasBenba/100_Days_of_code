@@ -1,6 +1,8 @@
 # 100_Days_of_code
-day 1: Band name generater project
+Day 1: Band name generater project
 
-day 2: Tip Calculator project
+Day 2: Tip Calculator project
 
-day 3: Treasure Island
+Day 3: Treasure Island Game
+
+Day 4: Rock Paper Scissors Game
