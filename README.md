@@ -6,3 +6,5 @@ Day 2: Tip Calculator project
 Day 3: Treasure Island Game
 
 Day 4: Rock Paper Scissors Game
+
+Day 5: Password Generator
