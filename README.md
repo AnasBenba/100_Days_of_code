@@ -12,3 +12,5 @@ Day 5: Password Generator
 Day 6 : No prjects
 
 Day 7: Hangman Project
+
+Day 8: Caesar Cipher
