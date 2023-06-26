@@ -1,5 +1,5 @@
 import os
-from art import logo
+from Secret_Auction_art import logo
 
 # Print the logo and welcome message
 print(logo)
