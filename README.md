@@ -16,3 +16,5 @@ Day 7: Hangman Project
 Day 8: Caesar Cipher
 
 Day 9: the Secret Auction
+
+Day 10: Calculatot
