@@ -20,3 +20,5 @@ Day 9: the Secret Auction
 Day 10: Calculatot
 
 Day 11: Blackjack
+
+Day 12: The Number Guessing Game
