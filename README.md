@@ -22,3 +22,9 @@ Day 10: Calculatot
 Day 11: Blackjack
 
 Day 12: The Number Guessing Game
+
+Day 13: Debugging
+
+Day 14: Higher Lower game project
+
+Day 15 Coffee machine project

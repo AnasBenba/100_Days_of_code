@@ -1,6 +1,6 @@
 from Higher_Lower_art import logo, vs
 from Higher_Lower_game_data import data
-from Higher_Lower_Random_number import random_number, random_list
+from Higher_Lower_Randome_number import random_number, random_list
 import os
 from Higher_Lower_generate_result import generate_result
 
