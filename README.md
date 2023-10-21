@@ -31,4 +31,6 @@ Day 15: Coffee machine project
 
 Day 16: OOP Coffee machine project
 
-Day 16: OOP quiz project
+Day 17: OOP quiz project
+
+Day 18: The Hirst Painting Project
