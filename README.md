@@ -36,3 +36,5 @@ Day 17: OOP quiz project
 Day 18: The Hirst Painting Project
 
 Day 19: The turtle Race Project
+
+Day 20: Snake Game Part-1
