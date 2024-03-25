@@ -8,16 +8,25 @@ class Snake:
     def __init__(self):
         self.segments = []
         self.x = 0
+        self.y = 0
+        self.position = (self.x, self.y)
         self.create_snake()
 
     def create_snake(self):
         for _ in range(0, 3):
-            s = Turtle(shape="square")
-            s.color("white")
-            s.penup()
-            s.goto(self.x, 0)
-            self.x += -20
-            self.segments.append(s)
+            self.add_segment(self.position)
+    
+    def add_segment(self, position):
+        s = Turtle(shape="square")
+        s.color("white")
+        s.penup()
+        my_list = list(position)
+        s.goto(my_list[0], my_list[1])
+        my_list[0] += -20
+        self.segments.append(s)
+    
+    def extand(self):
+        self.add_segment(self.segments[-1].position())
 
     def up(self):
         if self.segments[0].heading() != 270:
