@@ -40,3 +40,5 @@ Day 19: The turtle Race Project
 Day 20: Snake Game Part-1
 
 Day 21: Snake Game Part-2
+
+Day 22: Pong game
